@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **DeepConcept™️** https://deepconcept.org
 
-- 💬 Ask me about **Web,Mobile,Network security...**
+- 💬 Ask me about **Api,Python,DB...**
 
-- 📫 How to reach me **doguhaneryilmaz@erytech.org**
+- 📫 How to reach me **doguhaneryilmaz6@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
