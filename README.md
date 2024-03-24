@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Doğuhan</h1>
 <h3 align="center">A Developer From Turkey</h3>
 
-- 🔭 I’m currently working on **DeepConcept™️** https://deepconcept.org
+- 🔭 I’m currently working on **Fivem Development** 
 
-- 💬 Ask me about **Api,Python,DB...**
+- 💬 Ask me about **Fivem...**
 
 - 📫 How to reach me **doguhaneryilmaz6@gmail.com**
 
